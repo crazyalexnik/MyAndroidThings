@@ -4,22 +4,22 @@
     api-level="24"
     format="8"
     plugin-version="2.2.3"
-    timestamp="9879927620716"
+    timestamp="10877869485082"
     token="-4617670112701713103"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="58" />
+        duration="78" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="18" />
+        duration="31" />
     <task
         name="verifier"
-        duration="0" />
+        duration="1" />
 
     <artifact
         location="/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
@@ -33,7 +33,7 @@
             type="MAIN" />
     </build>
     <build
-        timestamp="9879927620716"
+        timestamp="10877869485082"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"

@@ -64,7 +64,9 @@ public class MainActivity extends Activity {
         setContentView(R.layout.my_layout);
         tAngle = (TextView) findViewById(R.id.textViewAngle) ;
         seekAngle = (SeekBar) findViewById(R.id.seekBarAngle);
-
+        FirebaseDatabase database = FirebaseDatabase.getInstance();
+        myRef = database.getReference("message");
+        myRef.setValue("1");
         seekAngle.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener() {
 
             @Override
@@ -82,7 +84,7 @@ public class MainActivity extends Activity {
                 // TODO Auto-generated method stub
 
                 tAngle.setText("Speed:"+String.valueOf(seekBar.getProgress()));
-                
+                myRef.setValue(String.valueOf(seekBar.getProgress()));
 
 
             }
@@ -99,9 +101,7 @@ public class MainActivity extends Activity {
         mHandler = new Handler();
 //        mHandler.post(mMoveServoRunnable);
 
-        FirebaseDatabase database = FirebaseDatabase.getInstance();
-        myRef = database.getReference("message");
-        myRef.setValue("1");
+
 
 
         myRef.addValueEventListener(new ValueEventListener() {
