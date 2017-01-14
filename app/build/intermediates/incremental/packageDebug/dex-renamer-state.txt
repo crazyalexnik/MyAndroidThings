@@ -1,0 +1,7 @@
+#Sat Jan 14 13:05:54 EET 2017
+base.0=/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_903081b1a472bef48555651d0a523427be25e5f6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_081ab490128afd2f46a4f339ea8e0baca05c131b/classes.dex
+base.1=/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_081ab490128afd2f46a4f339ea8e0baca05c131b
+file.0=/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_903081b1a472bef48555651d0a523427be25e5f6/classes.dex
