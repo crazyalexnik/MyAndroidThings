@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <integer name="google_play_services_version">10084000</integer>
+    <string name="app_name">AlexThings</string>
+    <string name="common_google_play_services_unknown_issue"><ns1:g id="app_name">%1$s</ns1:g> is having trouble with Google Play services. Please try again.</string>
+    <string name="default_web_client_id" translatable="false">422464083285-si3c6h3akdj29jsiml74n0rbrbtjehgq.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://myandroidthings-500b7.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">422464083285</string>
+    <string name="google_api_key" translatable="false">AIzaSyA2q7Qm1jsGK8KPQAY5IU-RM69LAAHGvBY</string>
+    <string name="google_app_id" translatable="false">1:422464083285:android:e32412d248eeb6c5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA2q7Qm1jsGK8KPQAY5IU-RM69LAAHGvBY</string>
+    <string name="google_storage_bucket" translatable="false">myandroidthings-500b7.appspot.com</string>
+</resources>

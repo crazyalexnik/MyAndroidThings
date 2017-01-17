@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9eaa51548edb3830a2c7fb22154fe708cd9bcabd">
+        <dex dex="/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_903081b1a472bef48555651d0a523427be25e5f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_ed71145beb9df9aeb97af8697abff28d78c87e4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_9969ecbb57ec550e087cd4af51b9423a01747f0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.1_411cb2dd7349c72d36cd6713b78fed20ed6da7a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_cd64a71c11e0251f36b6d0478fe258b9e60b281a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/exploded-aar/com.google.android.things.contrib/driver-pwmservo/0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c3bb5f8c78d229a3896dc650f46943a66ecafd10">
+        <dex dex="/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.things.contrib-driver-pwmservo-0.1_89ae3af92f1377b22998bee44a994cdb7266dba6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_86fdac980fe3893219181e2bdbba4574709d5f2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f472503fdd31b0f5e6dcc1435dec8be02395488d">
+        <dex dex="/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_081ab490128afd2f46a4f339ea8e0baca05c131b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.0.1_df47a29ed3a31162384ebd1148f7c9b0f3657275/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_ddd3ef6517c139249bee4b1914bc53fd41ae0262/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_7d6e275e701a33a7b620276c6f319fbb2c9504c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_75eeed0cd16f528f53412b136cd243c457a47751/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_fa565192de09b9a92800b4d1a8086e67461b6772/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_bc8023cadfb0a1315c01a6b22628254bb0fd84ef/classes.dex" />
+    </item>
+
+</items>

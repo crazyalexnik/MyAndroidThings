@@ -1,0 +1,12 @@
+#Internal package file, do not edit.
+#Sat Jan 14 13:05:34 EET 2017
+1.base=/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/res/resources-debug.ap_
+1.file=/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/res/resources-debug.ap_/res/layout/my_layout.xml
+2.base=/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/res/resources-debug.ap_
+2.set=ANDROID_RESOURCE
+2.file=/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+count=3
+1.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
+0.base=/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/res/resources-debug.ap_
+0.file=/home/alex/Projects_alex/MyAndroidThings/app/build/intermediates/res/resources-debug.ap_/resources.arsc
