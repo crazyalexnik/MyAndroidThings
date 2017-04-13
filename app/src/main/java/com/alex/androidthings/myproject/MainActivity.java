@@ -22,13 +22,14 @@ import android.os.Handler;
 import android.util.Log;
 import android.widget.SeekBar;
 import android.widget.TextView;
-
 import com.google.android.things.contrib.driver.pwmservo.Servo;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
+import org.ros.android.RosActivity;
+import org.ros.node.NodeMainExecutor;
 import java.io.IOException;
 
 /**
@@ -50,14 +51,19 @@ import java.io.IOException;
  * is available.
  *
  */
-public class MainActivity extends Activity {
+public class MainActivity extends RosActivity {
     private static final String TAG = "MyThings";
     private Servo mServo;
     private Handler mHandler;
     private TextView tAngle;
     private SeekBar seekAngle;
     private DatabaseReference myRef;
-///my test of commit2
+
+    public MainActivity() {
+        super("RoboAlex", "RoboAlex");
+    }
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -176,5 +182,10 @@ public class MainActivity extends Activity {
                 mServo = null;
             }
         }
+    }
+
+    @Override
+    protected void init(NodeMainExecutor nodeMainExecutor) {
+
     }
 }
