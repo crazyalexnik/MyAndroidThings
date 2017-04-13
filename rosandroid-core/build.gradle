@@ -1,0 +1,30 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion '25.0.0'
+    defaultConfig {
+        minSdkVersion 14
+    }
+}
+
+configurations {
+    all*.exclude group: 'org.ros.rosjava_bootstrap', module: 'gradle_plugins'
+    all*.exclude group: 'xml-apis'
+}
+
+dependencies {
+
+    compile('org.ros.rosjava_core:rosjava:0.2.1') {
+        exclude group: 'xml-apis'
+        exclude group: 'junit'
+    }
+
+    compile 'org.ros.rosjava_messages:std_msgs:0.5.9'
+    compile 'org.ros.rosjava_messages:rosgraph_msgs:1.11.1'
+    compile 'org.ros.rosjava_messages:sensor_msgs:1.11.7'
+    compile 'org.ros.rosjava_core:rosjava_geometry:[0.2,0.3)'
+    compile 'org.ros.rosjava_messages:visualization_msgs:[1.11,1.12)'
+    compile 'com.android.support:support-v4:24.2.0'
+
+}
